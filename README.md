@@ -1,5 +1,4 @@
 # JSinPython
-# Readin RFID from pyton and using in JS
 For Windows use <python>
 For any Linux distro use <python3>
 in spawn/spawnSync argument
