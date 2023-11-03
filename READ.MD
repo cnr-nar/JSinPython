@@ -6,5 +6,5 @@ in spawn/spawnSync argument
 * cd into spawn-test or spawnSync-test
 * and run node demo.js
 
->>cd spawn-test
->>node demo.js
+>cd spawn-test
+node demo.js>
